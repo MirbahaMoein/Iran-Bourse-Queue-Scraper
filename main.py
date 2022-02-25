@@ -255,6 +255,3 @@ chrome = ChromeDriverManager()
 chrome = chrome.install()
 
 main_menu()
-
-
-
